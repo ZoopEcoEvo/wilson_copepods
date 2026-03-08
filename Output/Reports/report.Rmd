@@ -84,7 +84,7 @@ theme_matt_facets = function(base_size = 18,
 ```
 
 ## Historical Temperature Data
-Daily temperature data was retrieved from the National Centers for Environmental Information from three sites in Boston (Station USW00094701 in Boston, Station USC00191097 in Cambridge, and Station USW00014739 at Boston Logan International Airport) and a site in Hyannis. Only maximum and minimum daily temperatures were recorded for the historical data (<1950). To assemble a complete data record, daily maximum and minimum values were first averaged for each day to account for temporal overlap between the data sets. The mid-point between the minimum and maximum was then used a proxy for the daily mean temperature. 
+Daily temperature data was retrieved from the National Centers for Environmental Information from three sites in Boston (Station USW00094701 in Boston, Station USC00191097 in Cambridge, and Station USW00014739 at Boston Logan International Airport) and a site in Hyannis (Station USC00193821). Only maximum and minimum daily temperatures were recorded for the historical data (<1950). To assemble a complete data record, daily maximum and minimum values were first averaged for each day to account for temporal overlap between the data sets. The mid-point between the minimum and maximum was then used a proxy for the daily mean temperature. 
 
 This method produced reasonable estimates for the daily mean temperature. There was a tight correlation between estimated and observed mean daily temperatures. 
 
